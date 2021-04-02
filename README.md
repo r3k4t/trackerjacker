@@ -7,7 +7,7 @@
 
 <h6>Author:RKT</h6>
 
-TrackerJacker is a location tracking program.Its build on python.It can help to track any ip address from google map.
+TrackerJacker is a location tracking program.Its build on python program.It can help to track any ip address from google map.
 
 ### Setup ###
 
